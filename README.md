@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GuamanJeffrey
-- 🌱 I am a Hunter college student majoring in CyberSecurity through the CUNY BA program. 
-- 📫 How to reach me: email - Guamanjeffrey@gmail.com 
+-  Hi, I’m @GuamanJeffrey
+-  How to reach me: email - Guamanjeffrey@gmail.com
+-  Below you'll find several projects written in C++ and python that I have worked on throughout my freshman and sophmore year. 
 
 <!---
 GuamanJeffrey/GuamanJeffrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
