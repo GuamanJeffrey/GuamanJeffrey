@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GuamanJeffrey
-- 🌱 I’m currently learning programming from Hunter College's Intro to Computer Science course and CyberSecurity from Testout Courses such as Ethical Hacker Pro course. 
+- 🌱 I am a Hunter college student majoring in CyberSecurity through the CUNY BA program. 
 - 📫 How to reach me: email - Guamanjeffrey@gmail.com 
 
 <!---
